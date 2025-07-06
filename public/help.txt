@@ -1,0 +1,9 @@
+npx create-next-app@latest
+  
+
+clear css and html
+
+    
+next.config.mjs:   devIndicators: false,
+
+
