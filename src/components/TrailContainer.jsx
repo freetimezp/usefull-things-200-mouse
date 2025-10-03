@@ -31,7 +31,7 @@ const TrailContainer = () => {
         };
 
         const trialImageCount = 20;
-        const images = Array.from({ length: trialImageCount }, (_, i) => `/images/items/img${i + 1}.jpg`);
+        const images = Array.from({ length: trialImageCount }, (_, i) => `/usefull-things-200-mouse/images/items/img${i + 1}.jpg`);
 
         //console.log(images);
 
