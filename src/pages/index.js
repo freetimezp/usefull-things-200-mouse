@@ -8,7 +8,7 @@ export default function Home() {
         <>
             <section className="hero">
                 <div className="hero-img">
-                    <Image src="/images/bg.jpg" alt="" fill style={{ objectFit: "cover" }} />{" "}
+                    <Image src="/usefull-things-200-mouse/images/bg.jpg" alt="" fill style={{ objectFit: "cover" }} />{" "}
                 </div>
 
                 <p>oh try this one animation</p>
